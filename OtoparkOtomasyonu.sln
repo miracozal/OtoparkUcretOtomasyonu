@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoparkOtomasyonu", "OtoparkOtomasyonu\OtoparkOtomasyonu.csproj", "{F90D1B65-3337-4978-8DC4-C7C5FFA6D476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90D1B65-3337-4978-8DC4-C7C5FFA6D476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90D1B65-3337-4978-8DC4-C7C5FFA6D476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90D1B65-3337-4978-8DC4-C7C5FFA6D476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90D1B65-3337-4978-8DC4-C7C5FFA6D476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC6F61A-2171-4A11-899A-8DE7D8B262D9}
+	EndGlobalSection
+EndGlobal
